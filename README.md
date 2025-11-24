@@ -214,12 +214,40 @@ For questions, suggestions, or issues:
 - Open an issue on GitHub
 - Email: guthikondapragna@gmail.com
 
-## 🎮 Screenshots
+📸 Screenshots & Demo
+🎥 Gameplay Demo
+📷 Game Screenshots
+<div align="center">
+🏁 Main Menu & Start Screen
+<img src="https://drive.google.com/uc?export=view&id=1kJX9RyWgYseAhrUcsPMvXeNF2oVvIjbS" alt="Emotion Detection Active" width="700"/>
+</div>
+🏎️ Racing Action - Gesture Controls in Motion
+<img src="https://drive.google.com/uc?export=view&id=17pS3aiPJOG9MP24vGsFcbZhd2Xt4TLJs" alt="Main Menu" width="700"/>
+<br><br>
+Pause Screen
+<img src="https://drive.google.com/uc?export=view&id=1J8RA36aP2fLOUmkd0OvQGjk1JbsYNq32" alt="Gameplay with Gestures" width="700"/>
+<br><br>
 
-*Add your game screenshots here*
-
----
-
+✨ Key Features Shown
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/👁️-Blink_Controls-blue?style=for-the-badge" alt="Blink Controls"/><br>
+      <b>Eye Blink Navigation</b><br>
+      <small>Single blink to start, double blink to quit</small>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🖐️-Hand_Gestures-green?style=for-the-badge" alt="Hand Gestures"/><br>
+      <b>Real-time Gesture Control</b><br>
+      <small>Palm tilt, thumbs up, fist controls</small>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🎭-Emotion_AI-purple?style=for-the-badge" alt="Emotion AI"/><br>
+      <b>Emotion-Based Commentary</b><br>
+      <small>AI detects your mood and adapts</small>
+    </td>
+  </tr>
+</table>
 **Made with ❤️ by Guthikonda Pragna**
 
 ⭐ Star this repo if you enjoyed the game!
